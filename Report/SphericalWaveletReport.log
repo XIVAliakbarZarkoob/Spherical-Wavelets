@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2024.6.9)  28 JAN 2025 17:47
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.3.2)  18 SEP 2025 20:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -341,6 +341,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
 )
+Package hyperref Info: Option `colorlinks' set `true' on input line 4062.
 Package hyperref Info: Hyper figures OFF on input line 4179.
 Package hyperref Info: Link nesting OFF on input line 4184.
 Package hyperref Info: Hyper index ON on input line 4187.
@@ -371,7 +372,7 @@ Package hyperref Info: Hyper figures OFF on input line 6063.
 Package hyperref Info: Link nesting OFF on input line 6068.
 Package hyperref Info: Hyper index ON on input line 6071.
 Package hyperref Info: backreferencing OFF on input line 6078.
-Package hyperref Info: Link coloring OFF on input line 6083.
+Package hyperref Info: Link coloring ON on input line 6081.
 Package hyperref Info: Link coloring with OCG OFF on input line 6088.
 Package hyperref Info: PDF/A mode OFF on input line 6093.
 
@@ -431,15 +432,45 @@ Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 \c@nlinenum=\count293
 \TeXr@lab=\toks32
 )
+(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/fontawesome5.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-01-22 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2024-01-04 L3 backend support: XeTeX
+\g__graphics_track_int=\count294
+\l__pdf_internal_box=\box58
+\g__pdf_backend_object_int=\count295
+\g__pdf_backend_annotation_int=\count296
+\g__pdf_backend_link_int=\count297
+))
+Package: fontawesome5 2022/05/02 v5.15.4 Font Awesome 5
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2023-10-10 LaTeX2e option processing using LaTeX3 keys
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2023-10-10 L3 Experimental document command parser
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/fontawesome5-utex-helper.
+sty
+Package: fontawesome5-utex-helper 2022/05/02 v5.15.4 uTeX helper for fontawesom
+e5
+LaTeX Font Info:    Trying to load font information for TU+fontawesomefree on i
+nput line 69.
+ (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/tufontawesomefree.fd)
+LaTeX Font Info:    Trying to load font information for TU+fontawesomebrands on
+ input line 70.
+(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/tufontawesomebrands.fd)))
 (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
 (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count294
-\Gm@cntv=\count295
-\c@Gm@tempcnt=\count296
+\Gm@cnth=\count298
+\Gm@cntv=\count299
+\c@Gm@tempcnt=\count300
 \Gm@bindingoffset=\dimen171
 \Gm@wd@mp=\dimen172
 \Gm@odd@mp=\dimen173
@@ -450,44 +481,36 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutvoffset=\dimen178
 \Gm@dimlist=\toks33
 )
-(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-File: l3backend-xetex.def 2024-01-04 L3 backend support: XeTeX
-\g__graphics_track_int=\count297
-\l__pdf_internal_box=\box58
-\g__pdf_backend_object_int=\count298
-\g__pdf_backend_annotation_int=\count299
-\g__pdf_backend_link_int=\count300
-)
 (./SphericalWaveletReport.aux)
 \openout1 = `SphericalWaveletReport.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
-7.
+8.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-Package hyperref Info: Link coloring OFF on input line 17.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+Package hyperref Info: Link coloring ON on input line 18.
 
 (./SphericalWaveletReport.out) (./SphericalWaveletReport.out)
 \@outlinefile=\write4
@@ -535,12 +558,12 @@ File: Fanni_Alt_BW_Logo.png Graphic file (type bmp)
 [1
 
 ]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 60.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 62.
 
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 60.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 62.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -570,28 +593,28 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 File: ../Outputs/Plots/Outputs_Scale1.pdf Graphic file (type pdf)
 <use ../Outputs/Plots/Outputs_Scale1.pdf>
 
-Overfull \hbox (2.27618pt too wide) in paragraph at lines 131--132
+Overfull \hbox (2.27618pt too wide) in paragraph at lines 133--134
  [][] 
  []
 
 File: ../Outputs/Plots/Outputs_Scale2.pdf Graphic file (type pdf)
 <use ../Outputs/Plots/Outputs_Scale2.pdf>
 
-Overfull \hbox (2.27618pt too wide) in paragraph at lines 138--139
+Overfull \hbox (2.27618pt too wide) in paragraph at lines 140--141
  [][] 
  []
 
 File: ../Outputs/Plots/Outputs_Scale3.pdf Graphic file (type pdf)
 <use ../Outputs/Plots/Outputs_Scale3.pdf>
 
-Overfull \hbox (2.27618pt too wide) in paragraph at lines 145--146
+Overfull \hbox (2.27618pt too wide) in paragraph at lines 147--148
  [][] 
  []
 
 File: ../Outputs/Plots/Outputs_Scale4.pdf Graphic file (type pdf)
 <use ../Outputs/Plots/Outputs_Scale4.pdf>
 
-Overfull \hbox (2.27618pt too wide) in paragraph at lines 152--153
+Overfull \hbox (2.27618pt too wide) in paragraph at lines 154--155
  [][] 
  []
 
@@ -601,7 +624,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: ../Outputs/Plots/Outputs_Scale5.pdf Graphic file (type pdf)
 <use ../Outputs/Plots/Outputs_Scale5.pdf>
 
-Overfull \hbox (2.27618pt too wide) in paragraph at lines 159--160
+Overfull \hbox (2.27618pt too wide) in paragraph at lines 161--162
  [][] 
  []
 
@@ -611,7 +634,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: ../Outputs/Plots/Outputs_Scale6.pdf Graphic file (type pdf)
 <use ../Outputs/Plots/Outputs_Scale6.pdf>
 
-Overfull \hbox (2.27618pt too wide) in paragraph at lines 166--167
+Overfull \hbox (2.27618pt too wide) in paragraph at lines 168--169
  [][] 
  []
 
@@ -641,14 +664,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 File: ../Outputs/Plots/Outputs_Scale7.pdf Graphic file (type pdf)
 <use ../Outputs/Plots/Outputs_Scale7.pdf>
 
-Overfull \hbox (2.27618pt too wide) in paragraph at lines 175--176
+Overfull \hbox (2.27618pt too wide) in paragraph at lines 177--178
  [][] 
  []
 
 File: ../Outputs/Plots/Outputs_Scale8.pdf Graphic file (type pdf)
 <use ../Outputs/Plots/Outputs_Scale8.pdf>
 
-Overfull \hbox (2.27618pt too wide) in paragraph at lines 182--183
+Overfull \hbox (2.27618pt too wide) in paragraph at lines 184--185
  [][] 
  []
 
@@ -672,11 +695,11 @@ Package rerunfilecheck Info: File `SphericalWaveletReport.out' has not changed.
 (rerunfilecheck)             Checksum: DB19D95956B29F9F20AF2A44912C1241;327.
  ) 
 Here is how much of TeX's memory you used:
- 12918 strings out of 474878
- 214924 string characters out of 5762517
+ 14641 strings out of 474878
+ 238720 string characters out of 5762517
  1926627 words of memory out of 5000000
- 34730 multiletter control sequences out of 15000+600000
- 564853 words of font info for 73 fonts, out of 8000000 for 9000
+ 36422 multiletter control sequences out of 15000+600000
+ 564885 words of font info for 77 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  94i,15n,93p,657b,350s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
